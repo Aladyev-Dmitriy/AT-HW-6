@@ -1,5 +1,7 @@
 # Домашнее задание к занятию «2.4. BDD»
 
+[![Build status](https://ci.appveyor.com/api/projects/status/54rmjuaaoi7ihbot/branch/main?svg=true)](https://ci.appveyor.com/project/Aladyev-Dmitriy/at-hw-6/branch/main)
+
 В качестве результата пришлите ссылки на ваши GitHub-проекты в личном кабинете студента на сайте [netology.ru](https://netology.ru).
 
 Все задачи этого занятия нужно делать **в разных репозиториях**.
